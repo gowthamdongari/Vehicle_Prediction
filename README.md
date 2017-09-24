@@ -6,4 +6,4 @@ Then we calculate the -3 and +3 sigma levels and use this for predicting the acc
 
 To build a Machine Learning Model Creating a data resembling our sample and we build a machine learning model on it
 creating the data considering the average lengths of bike (1.8m), car(4.5m), & bus-(14m) given the speed of the vehicles is 15 kmph i.e is 4.1666 m/s, we calculated the average time taken for the vehicles to cover its own length
-now we create a dataset accordingly and created new Polynomonial Features and moving average to predict the vehicle Using Random Forest Classifier.
+now we create a dataset accordingly and created new Polynomial Features and moving average to predict the vehicle Using Random Forest Classifier.
